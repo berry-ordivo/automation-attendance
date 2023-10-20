@@ -14,7 +14,7 @@ This documentation will provide a tutorial for using manual and automatic clock-
 	- ![creating repository secret 2 ](./images/ss/6.png)
 - then, create a secret like this
 	- ![creating repository secret 2](./images/ss/4.png)
-- get yout langitude and longitude from gmaps
+- get your langitude and longitude from gmaps
 	- ![pointing lat long from gmpas](./images/ss/5.png)
 - go to action tab and accept the tnc
 	- ![accept tnc action](./images/ss/7.png)
@@ -32,4 +32,6 @@ This documentation will provide a tutorial for using manual and automatic clock-
 
 ### Additional
 - You can change the schedule if your time scheme is different. setting schedules using crontab, make sure you understand the rules in crontab
-	- ![success](./images/ss/13.png)
+	- ![edit scheduler](./images/ss/13.png)
+    - ![edit scheduler](./images/ss/14.png)
+    - ![edit scheduler](./images/ss/15.png)
