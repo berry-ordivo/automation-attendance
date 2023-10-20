@@ -18,9 +18,12 @@ This documentation will provide a tutorial for using manual and automatic clock-
 	- ![pointing lat long from gmpas](./images/ss/5.png)
 - go to action tab and accept the tnc
 	- ![accept tnc action](./images/ss/7.png)
+- before you go, you need to create "time off" list, so you need to request time off for the first time and cancel it. https://hr.talenta.co/my-info/time-off
+	- note: if you already have list off time off, you can skip this step
+	- ![request time off](./images/ss/16.png)
 - Go to check workflow to check whether all the settings in the repository secret are correct
 	- ![check action](./images/ss/8.png)
-	- if your check is failed, then you must insert repository secret correctly
+	- if your check is failed, then you must insert repository secret correctly or you forgot to create time off
 	- ![success](./images/ss/10.png)
 	- next setting for clockin - clockout if your check is success
 	- ![success](./images/ss/9.png)
