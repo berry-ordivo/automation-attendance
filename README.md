@@ -7,5 +7,5 @@ This documentation will provide a tutorial for using manual and automatic clock-
 ### Preperation
 
 - Fork this repo
-	- ![fork repo](https://ibb.co/TkzKPCw)
+	- ![fork repo](./images/ss/1.png)
 	-
